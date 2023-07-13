@@ -7,3 +7,4 @@ This a collection repo for my tasks in ITI flutter track
 | [`Task 2: Login Screen`](https://github.com/shalabycr7/flutter_quiz_app)                           | It aims to create a login screen for a quiz app. |
 | [`Task 3: Navigate Screens`](https://github.com/shalabycr7/flutter_quiz_app)                       | It aims to navigate throught the app screens.    |
 | [`Task 4: Categories & Questions & score Screens`](https://github.com/shalabycr7/flutter_quiz_app) | It aims to create three new screens.             |
+| [`Task 5: Code refactoring and clean up`](https://github.com/shalabycr7/flutter_quiz_app) | It aims to refactor the app code and architecture.             |
